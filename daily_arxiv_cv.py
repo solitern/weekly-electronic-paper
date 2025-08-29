@@ -1,7 +1,7 @@
 import arxiv
 import openai
 import datetime
-from src.config import *
+from config.config import *
 
 
 # 初始化OpenAI客户端
